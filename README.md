@@ -16,6 +16,9 @@ The application is exclusively developed in **C# and XAML** (despite its histori
 
 ![Screenshot of the Python-BlackJack app](https://github.com/STENS66/Python-BlackJack/blob/main/image_app.png?raw=true)
 
+![Screenshot of the Python-BlackJack app](https://github.com/STENS66/Python-BlackJack/blob/main/image_app.png?raw=true)
+
+
 
 ### Compatibility
 
@@ -110,6 +113,9 @@ L'application est exclusivement développée en **C# et XAML** (malgré son nom 
 ## Prévisualisation
 
 ![Capture d'écran de l'application Python-BlackJack](https://github.com/STENS66/Python-BlackJack/blob/main/image_app.png?raw=true)
+
+![Screenshot of the Python-BlackJack app](https://github.com/STENS66/Python-BlackJack/blob/main/image_app.png?raw=true)
+
 
 
 ### Compatibilité
