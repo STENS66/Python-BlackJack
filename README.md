@@ -72,7 +72,7 @@ To play **"Python-BlackJack"**:
 
 ## Download
 
-- [Download from Microsoft Store](#)
+- [Download from Microsoft Store](https://apps.microsoft.com/detail/9pbgqjn7xhld?hl=fr-FR&gl=BE)
 - [GitHub Releases](https://github.com/STENS66/PythonBlackJack/releases)
 
 ## Contact
@@ -172,7 +172,7 @@ Pour jouer à **"Python-BlackJack"** :
 
 ## Téléchargement
 
-- [Télécharger depuis le Microsoft Store](#)
+- [Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9pbgqjn7xhld?hl=fr-FR&gl=BE)
 - [GitHub Releases](https://github.com/STENS66/PythonBlackJack/releases)
 
 ## Contact
