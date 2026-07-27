@@ -1,4 +1,4 @@
-# Python-BlackJack
+# Python-BlackJack (UWP Edition)
 
 **Available on Microsoft Store**
 
@@ -95,7 +95,7 @@ Developed by **Gaëtan Sencie**, Python developer.
 
 ---
 
-# Python-BlackJack
+# Python-BlackJack (Édition UWP)
 
 **Disponible sur le Microsoft Store**
 
