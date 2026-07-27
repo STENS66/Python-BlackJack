@@ -1,4 +1,43 @@
-# Python-BlackJack (Édition UWP)
+# Python-Blackjack (UWP Edition)
+
+# Copyright © Gaëtan Sencie 2025-2026
+# All rights reserved.
+
+This software and all associated files, images, and resources (hereinafter the "Software") are the exclusive property of Gaëtan Sencie (hereinafter the "Author"). The Software is protected by Belgian and international copyright laws as well as by international conventions.
+
+**1. Terms of Use:**
+
+The User is authorized to download and use the Software for strictly personal purposes via the authorized distribution platform (Microsoft Store). Any distribution, copying, modification, or commercial use of the Software, in whole or in part, is strictly prohibited without the prior written consent of the Author. Personal use explicitly excludes any commercial activity, even if performed free of charge.
+
+**2. Redistribution:**
+
+The redistribution of the Software, in its original or modified form, is prohibited outside the distribution channels expressly validated by the Author. Any attempt to sell, rent, lease, or transfer the Software to a third party, or any hosting on third-party platforms without the Author's consent, constitutes a copyright infringement.
+
+**3. Modifications:**
+
+The User is not authorized to modify, decompile, disassemble, or reverse engineer the Software, in whole or in part.
+
+**4. Disclaimer of Warranty:**
+
+The Software is provided "as is", without any warranty of any kind, express or implied, including, but not limited to, the warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the Author be held liable for any direct or indirect damages, including incidental, consequential, or special damages, arising out of the use or inability to use the Software. By using the Software, the User acknowledges and agrees that the Software is provided "as is".
+
+**5. Duration of Protection:**
+
+The Software is protected by copyright for a period of 70 years following the death of the Author, in accordance with Belgian legislation.
+
+**6. Disputes:**
+
+Any dispute relating to this agreement shall be subject to the exclusive jurisdiction of the competent Belgian courts, in accordance with the laws in force in Belgium.
+
+For any request for authorization or further information, please contact the Author at the following address: app.sencie@gmail.com
+
+This agreement supersedes any default standard license agreement of the distribution platform and constitutes the entire agreement between the User and the Author regarding the use of this version of the Software.
+
+Done in Boncelles (Belgium), 2026.
+
+---
+
+# Python-Blackjack (Édition UWP)
 
 # Copyright © Gaëtan Sencie 2025-2026
 # Tous droits réservés.
