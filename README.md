@@ -22,7 +22,7 @@ The application is exclusively developed in **C# and XAML** (despite its histori
 
 ### Compatibility
 
-Desktop and console application designed for:
+Desktop application designed for:
 
 * **Windows**: 10 and 11 (64-bit / x86 / ARM64).
 
@@ -67,8 +67,8 @@ To play **"Python-BlackJack"**:
 
 ### Advantages
 
-- **Industrial Stability:** Built on a robust UWP C#/XAML architecture, ensuring a zero-freeze user interface.
-- **Absolute Privacy:** No internet packets, no tracking, and no data leaves the local application environment.
+- **Stability :** Built on a robust UWP C#/XAML architecture, ensuring a zero-freeze user interface.
+- **Absolute Privacy :** No internet packets, no tracking, and no data leaves the local application environment.
 
 ## Download
 
@@ -120,7 +120,7 @@ L'application est exclusivement développée en **C# et XAML** (malgré son nom 
 
 ### Compatibilité
 
-Application de bureau et console conçue pour :
+Application de bureau conçue pour :
 
 * **Windows** : 10 et 11 (64 bits / x86 / ARM64).
   
@@ -166,7 +166,7 @@ Pour jouer à **"Python-BlackJack"** :
 
 ### Avantages
 
-- **Stabilité Industrielle :** Construit sur une architecture UWP C#/XAML robuste, l'interface ne gèle jamais.
+- **Stabilité :** Construit sur une architecture UWP C#/XAML robuste, l'interface ne gèle jamais.
 - **Confidentialité Absolue :** Aucun paquet internet, aucun pistage, aucune donnée ne quitte l'environnement local de l'application.
   
 
