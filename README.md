@@ -24,7 +24,7 @@ The application is exclusively developed in **C# and XAML** (despite its histori
 
 Desktop and console application designed for:
 
-* **Windows**: 10 and 11 (64-bit / x86 / ARM).
+* **Windows**: 10 and 11 (64-bit / x86 / ARM64).
 
 ### Features
 
@@ -122,7 +122,7 @@ L'application est exclusivement développée en **C# et XAML** (malgré son nom 
 
 Application de bureau et console conçue pour :
 
-* **Windows** : 10 et 11 (64 bits / x86 / ARM).
+* **Windows** : 10 et 11 (64 bits / x86 / ARM64).
   
 
 ### Fonctionnalités
