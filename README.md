@@ -2,7 +2,7 @@
 
 **Available on Microsoft Store**
 
-# Copyright © Gaëtan Sencie 2025
+# Copyright © Gaëtan Sencie 2025-2026
 # All rights reserved.
 
 ## Description
@@ -99,7 +99,7 @@ Developed by **Gaëtan Sencie**, Python developer.
 
 **Disponible sur le Microsoft Store**
 
-# Copyright © Gaëtan Sencie 2025
+# Copyright © Gaëtan Sencie 2025-2026
 # Tous droits réservés.
 
 
