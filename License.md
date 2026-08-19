@@ -8,15 +8,15 @@ This software and all associated files, images, and resources (hereinafter the "
 
 # 1. Grant of License:
 
-The User is authorized to use the Software for strictly personal use. Any distribution, copying, modification, or commercial use of the Software, in whole or in part, is strictly prohibited without the prior written consent of the Author. Personal use explicitly excludes any commercial activity, even if performed free of charge.
+The User is authorized to use the Software for strictly personal use. Any distribution, copying, modification, or commercial use of the Software, in whole or in part, is strictly prohibited without the prior written consent of the Author. Personal use explicitly excludes any commercial activity, even if performed free of charge. This license constitutes an authorization of use and does not transfer any intellectual property rights to the User.
 
 # 2. Redistribution:
 
-Redistribution of the Software, in its original or modified form, is prohibited without the explicit consent of the Author. Any attempt to sell, lease, lend, or transfer the Software to a third party without the Author's agreement constitutes a violation of copyright.
+Redistribution of the Software, in its original or modified form, is prohibited without the explicit consent of the Author. Any attempt to sell, lease, lend, or transfer the Software to a third party without the Author's agreement constitutes a violation of copyright. Making the Software available on any public or private platform (website, cloud, marketplace, social network, etc.) is strictly prohibited without authorization.
 
 # 3. Restrictions:
 
-Except as permitted by applicable mandatory law, the User may not modify, decompile, disassemble, or reverse engineer the Software, in whole or in part.
+Except as permitted by applicable mandatory law, the User may not modify, decompile, disassemble, or reverse engineer the Software, in whole or in part. Any attempt to circumvent technical protection measures or Software limitations is strictly prohibited.
 
 # 4. Disclaimer of Warranty:
 
@@ -33,6 +33,14 @@ Except as permitted by applicable mandatory law, any dispute relating to this ag
 # 7. Open Source Components:
 
 This Software does not use any third-party permissive or LGPL dependencies other than standard system frameworks. The Software does not statically link any LGPL components.
+
+# 8. Updates:
+
+The Author is under no obligation to provide updates, patches, or new versions.
+
+# 9. Proof of Purchase:
+
+The Author reserves the right to request proof of purchase in the event of a dispute regarding the validity of the license.
 
 ---
 
@@ -55,15 +63,15 @@ Le présent logiciel et tous les fichiers, images et ressources associés (ci-ap
 
 # 1. Droits d’utilisation :
 
-L’Utilisateur est autorisé à utiliser le Logiciel à des fins strictement personnelles. Toute distribution, copie, modification ou utilisation commerciale du Logiciel, en tout ou en partie, est strictement interdite sans le consentement écrit préalable de l'Auteur. L'utilisation personnelle exclut explicitement toute activité commerciale, même si celle-ci est réalisée à titre gratuit.
+L’Utilisateur est autorisé à utiliser le Logiciel à des fins strictement personnelles. Toute distribution, copie, modification ou utilisation commerciale du Logiciel, en tout ou en partie, est strictement interdite sans le consentement écrit préalable de l'Auteur. L'utilisation personnelle exclut explicitement toute activité commerciale, même si celle-ci est réalisée à titre gratuit. Cette licence constitue une autorisation d’utilisation et ne transfère aucun droit de propriété intellectuelle à l’Utilisateur.
 
 # 2. Redistribution :
 
-La redistribution du Logiciel, sous sa forme originale ou modifiée, est interdite sans le consentement explicite de l’Auteur. Toute tentative de vente, location, prêt ou transfert du Logiciel à un tiers sans l'accord de l'Auteur constitue une violation du droit d'auteur.
+La redistribution du Logiciel, sous sa forme originale ou modifiée, est interdite sans le consentement explicite de l’Auteur. Toute tentative de vente, location, prêt ou transfert du Logiciel à un tiers sans l'accord de l'Auteur constitue une violation du droit d'auteur. La mise à disposition du Logiciel sur toute plateforme publique ou privée (site web, cloud, marketplace, réseau social, etc.) est strictement interdite sans autorisation.
 
 # 3. Modifications :
 
-Dans la mesure permise par la loi impérative applicable, l’Utilisateur n’est pas autorisé à modifier, décompiler, désassembler ou effectuer une ingénierie inverse sur le Logiciel, en tout ou en partie.
+Dans la mesure permise par la loi impérative applicable, l’Utilisateur n’est pas autorisé à modifier, décompiler, désassembler ou effectuer une ingénierie inverse sur le Logiciel, en tout ou en partie. Toute tentative de contournement des mécanismes techniques de protection ou de limitation du Logiciel est strictement interdite.
 
 # 4. Exclusion de garantie :
 
@@ -80,6 +88,14 @@ Dans la mesure permise par la loi impérative applicable, tout litige relatif au
 # 7. Composants Open Source:
 
 Ce Logiciel n'utilise aucune dépendance tierce permissive ou LGPL en dehors des frameworks systèmes standards. Le Logiciel ne lie statiquement aucun composant LGPL.
+
+# 8. Mises à jour :
+
+L’Auteur n’est pas tenu de fournir des mises à jour, correctifs ou nouvelles versions.
+
+# 9. Preuve d’achat :
+
+L’Auteur se réserve le droit de demander une preuve d’achat en cas de litige concernant la validité de la licence.
 
 ---
 
